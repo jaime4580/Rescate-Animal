@@ -24,7 +24,7 @@ div#columna_principal{
         font-size: 18px;
         list-style-type:none;
         height: auto;
-        background-color: #FFFDFC;
+        background-color: #FFFFFF;
         }
 ul {
   list-style-type: none;
@@ -47,7 +47,7 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #FFFDFC;
+  background-color: #FFFFFF;
 }
 
 
