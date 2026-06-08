@@ -5,7 +5,7 @@ html {
  }
 
 div#encabezado {
-  background-color: #5E1D10;
+  background-color: #8B008B;
   text-align: center;
   font-size: 35px;
   color: white;
@@ -14,7 +14,7 @@ div#encabezado {
 
 div#columna_principal{
  float: left;
- background-color: #660B0B; 
+ background-color: #FFD700; 
 }
 
 .navbar {
@@ -24,7 +24,7 @@ div#columna_principal{
         font-size: 18px;
         list-style-type:none;
         height: auto;
-        background-color: #FFFFFF;
+        background-color: #0000FF;
         }
 ul {
   list-style-type: none;
